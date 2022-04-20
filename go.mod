@@ -1,3 +1,3 @@
-module github.com/wowchemy/wowchemy-shortcode-starter
+module github.com/HaiminLuo/rawhtml
 
 go 1.15
